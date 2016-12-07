@@ -1,2 +1,6 @@
-# breast-cancer-classification
-Classify cells as benign or malignant based on cell nucleus features
+# Breast Cancer Classification 
+
+Evaluating and optimizing models for classifying benign and malignant cells based on cell nuclei characteristics. 
+
+Data from University of Wisconsin Breast Cancer Diagnostic <a href="https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29">dataset</a>
+
